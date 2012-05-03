@@ -1,5 +1,5 @@
 {
-   "abstract" : "unknown",
+   "abstract" : "Gets the version info about a module",
    "author" : [
       "Curtis Jewell, <csjewell@cpan.org>"
    ],
@@ -41,5 +41,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "1.003"
+   "version" : "1.004"
 }
